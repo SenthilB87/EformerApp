@@ -1,7 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\repository\\interface\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\repository\\interface\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\createuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\createuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\repository\\repository\\userrolerepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\repository\\repository\\userrolerepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\repository\\interface\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\repository\\interface\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\entities\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\entities\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\entities\\unitmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\entities\\unitmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\data\\entities\\categorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\data\\entities\\categorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|c:\\users\\keysp\\source\\repos\\eformerapp\\eformerapp\\eformerapp\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773558C5-0079-4B1F-BB85-00C258CB5C29}|Eformerapp\\Eformerapp.csproj|solutionrelative:eformerapp\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +131,322 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Eformerapp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:26:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:25:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:24:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Services\\AuthService.cs",
+              "RelativeToolTip": "Eformerapp\\Services\\AuthService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:20:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "Eformerapp\\Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwFQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:18:32.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UpdateUserRoleDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\UpdateUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UpdateUserRoleDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\UpdateUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:16:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\CreateUserRoleDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\CreateUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\CreateUserRoleDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\CreateUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:09:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\UserRoleDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UserRoleDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\UserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:04:02.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRoleRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Repository\\UserRoleRepository.cs.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Repository\\Repository\\UserRoleRepository.cs.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Repository\\UserRoleRepository.cs.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Repository\\Repository\\UserRoleRepository.cs.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA6wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:00:53.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Interface\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Repository\\Interface\\IUserRoleRepository.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Interface\\IUserRoleRepository.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Repository\\Interface\\IUserRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:00:12.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Program.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Program.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Program.cs",
+              "RelativeToolTip": "Eformerapp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:40:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Eformerapp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:32:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:29:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:29:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "Eformerapp\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:27:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Repository\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Repository\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:31:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Interface\\UserInterface.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Repository\\Interface\\UserInterface.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Repository\\Interface\\UserInterface.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Repository\\Interface\\UserInterface.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:23:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryMaster.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\CategoryMaster.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Entities\\CategoryMaster.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\CategoryMaster.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Entities\\CategoryMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:35:20.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitMaster.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\UnitMaster.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Entities\\UnitMaster.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\UnitMaster.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Entities\\UnitMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:34:22.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductMaster.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\ProductMaster.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Entities\\ProductMaster.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\ProductMaster.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Entities\\ProductMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:33:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\UserRole.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:32:56.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:32:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Eformerapp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Eformerapp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:19:26.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\appsettings.json",
+              "RelativeDocumentMoniker": "Eformerapp\\appsettings.json",
+              "ToolTip": "C:\\Users\\keysp\\source\\repos\\EformerApp\\Eformerapp\\Eformerapp\\appsettings.json",
+              "RelativeToolTip": "Eformerapp\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T09:27:05.239Z",
+              "EditorCaption": ""
             }
           ]
         },

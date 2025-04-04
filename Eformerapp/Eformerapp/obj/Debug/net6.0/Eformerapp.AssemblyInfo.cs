@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eformerapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14dd123a58e7803a5f9951b015751551e97e197d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85e6e38b47b95a0a5e9fad38b0a9fedb1af1d3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eformerapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eformerapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
